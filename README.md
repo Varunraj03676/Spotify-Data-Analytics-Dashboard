@@ -79,12 +79,6 @@ The dashboard includes **4 main KPIs**:
 
 ---
 
-## 📸 Dashboard Preview
-
-> *(Add screenshots here if you want for extra impact)*
-
----
-
 ## 👤 Author
 
 **Varun Raj**  
